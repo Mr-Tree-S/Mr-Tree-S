@@ -5,9 +5,10 @@
 <p>Welcome to my page! </br> I'm Mr.Tree, doing something fun in cyber security. </p>
 
 
-## github stats
+## github stats Card
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Tree-S&show_icons=true&theme=radical)
 
-## Language card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tree-S&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+## Top Languages Card
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tree-S)](https://github.com/anuraghazra/github-readme-stats)
