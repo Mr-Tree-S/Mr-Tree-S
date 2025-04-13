@@ -1,24 +1,13 @@
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!--
-**Mr-Tree-S/Mr-Tree-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What%E2%80%99s+your+favorite;I+love+a+shell" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Welcome to my page! </br> I'm Mr.Tree, doing something fun in cyber security. </p>
 
 
-📈 my github stats
+## github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Tree-S&show_icons=true&theme=gotham" alt="Mr-Tree-S" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Tree-S&show_icons=true&theme=radical)
 
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tree-S&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+## Language card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tree-S&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
