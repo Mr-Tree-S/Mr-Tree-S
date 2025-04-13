@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Tree-S&show_icons=true&theme=gotham" alt="Mr-Tree-S" />
+
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tree-S&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
