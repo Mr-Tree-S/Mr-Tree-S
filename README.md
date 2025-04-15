@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What%E2%80%99s+your+favorite;I+love+a+shell" alt="Typing SVG" /></a>
 
-<p>Welcome to my page! </br> I'm Mr.Tree, doing something fun in cyber security. </p>
+<p>Welcome to my page! </br> I'm Mr.Tree, doing something fun in cybersecurity. </p>
 
 <!-- xxx
 ## github stats Card
